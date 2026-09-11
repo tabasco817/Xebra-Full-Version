@@ -241,3 +241,6 @@ This repository serves as the official landing page for Xebra. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Xebra today!**
+
+---
+**Last updated:** 2026-09-11 16:10:35 UTC
